@@ -44,4 +44,4 @@ for item in leagueTable:
     # Wins
     print(item.contents[6].text)
     # Draw
-    print(item.contents[6].text)
+    print(item.contents[7].text)
